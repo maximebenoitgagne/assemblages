@@ -17,10 +17,10 @@ Model:
 
 - The model is a one-dimensional configuration of the
 biogeochemical/ecosystem model of Dutkiewicz et al. (2021) in
-*Glob. change biol.* [https://doi.org/10.1111/gcb.15493](https://doi.org/10.1111/gcb.15493)
+*Glob. change biol.* ([https://doi.org/10.1111/gcb.15493](https://doi.org/10.1111/gcb.15493))
 The tracers are mixed by the MIT general circulation model
 (MITgcm, Marshall et al., 1997 in *JGR*).
-The paper Benoît-Gagné et al. (2024) in *Elem. Sci. Anth.* [https://doi.org/10.1525/elementa.2024.00008](https://doi.org/10.1525/elementa.2024.00008) describes some modifications relative to
+The paper Benoît-Gagné et al. (2024) in *Elem. Sci. Anth.* ([https://doi.org/10.1525/elementa.2024.00008](https://doi.org/10.1525/elementa.2024.00008)) describes some modifications relative to
 Dutkiewicz et al. (2021).
 
 Datasets:
@@ -34,7 +34,7 @@ Annual average of biomass and annually integrated relative contribution of each 
 - data/DataS4_outputs_long:
 Simulation outputs for the reference simulation (EXP-0) and for the 10 sensitivity simulations discussed in more detail in the paper (EXP-S02N02, EXP-S02N08, EXP-S02N16, EXP-S08N02, EXP-S08N08, EXP-S08N16, EXP-S14N02, EXP-S14N08, EXP-S14N16 and EXP-S14N20). Details are available in MetadataS4.pdf.
 - data/DataS5_winter_nutrients_in_situ_11exp:
-Winter nitrate and silicate concentrations for 11 expeditions from literature (Ardyna et al., 2020 in *Elem. Sci. Anth.* [https:doi.org/10.1525/elementa.430](https:doi.org/10.1525/elementa.430)). The csv file was provided by Mathieu Ardyna. Details are available in MetadataS5.pdf.
+Winter nitrate and silicate concentrations for 11 expeditions from literature (Ardyna et al., 2020 in *Elem. Sci. Anth.*. [https:doi.org/10.1525/elementa.430](https:doi.org/10.1525/elementa.430)). The csv file was provided by Mathieu Ardyna. Details are available in MetadataS5.pdf.
 
 Notes:
 
