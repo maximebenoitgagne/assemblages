@@ -1,0 +1,5 @@
+car.*.nc filter=lfs diff=lfs merge=lfs -text
+GE_mod_var.nc filter=lfs diff=lfs merge=lfs -text
+*IBCAO_1min_bathy.mat filter=lfs diff=lfs merge=lfs -text
+ptr_tave.*.nc filter=lfs diff=lfs merge=lfs -text
+ptracers.0000000000.t001.nc filter=lfs diff=lfs merge=lfs -text
