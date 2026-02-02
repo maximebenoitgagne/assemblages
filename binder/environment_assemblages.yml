@@ -1,0 +1,21 @@
+name: assemblages
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - gsw
+  - h5py
+  - importlib-metadata
+  - jupyter
+  - matplotlib
+  - netCDF4
+  - numpy
+  - notebook=6
+  - pandas
+  - pillow
+  - plotly
+  - python=3.8
+  - scipy
+  - statsmodels
+  - tabulate
+prefix: /Users/maximebenoit-gagne/anaconda/envs/assemblages
