@@ -7,9 +7,9 @@ Directory structure:
 - The model itself is contained in the following directories: doc, eesupp, jobs, lsopt, model, optim, pkg, tools, utils and verification.
 - The configuration of the model is in the directory gud_1d_35+16.
 - The jupyter notebook assemblages.ipynb generates the figures in the directory
-figures_assemblages_progress.
-- The jupyter notebook assemblages_supmat.ipynb generates the figures in the
-directory figures_assemblages_sup_progress.
+figures.
+- The jupyter notebook assemblages_supp.ipynb generates the figures in the
+directory figures_supp.
 - Data for the generation of the figures (Data S1 to S5). It includes complete model
 outputs for the the reference experiment (EXP-0) and for 10 of the 121 sensitivity experiments. Only statistics are provided for the other 111 sensitivity experiments. The complete model outputs for all experiments are available on the Federated Research Data Repository (FRDR, see paper).
 
