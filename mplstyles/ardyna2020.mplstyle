@@ -1,0 +1,11 @@
+axes.labelsize:        25
+font.size:             35
+image.cmap:             viridis
+legend.fontsize:       20
+lines.linestyle:        None
+lines.linewidth:       10
+lines.markeredgecolor:  black
+lines.markeredgewidth:  1
+lines.markersize:      25
+xtick.labelsize:       25
+ytick.labelsize:       25
