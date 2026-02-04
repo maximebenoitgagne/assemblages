@@ -1,0 +1,8 @@
+axes.labelsize:  20
+legend.fontsize: 13
+lines.linewidth:  3
+lines.markersize: 9
+font.family:      STIXGeneral
+font.size:       15
+xtick.labelsize: 15
+ytick.labelsize: 15
