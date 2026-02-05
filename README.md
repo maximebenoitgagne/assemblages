@@ -52,4 +52,6 @@ The procedure to run the model is in the README of the directory gud_1d_35+16.
 
 Let me know if you have any requests or comments.
 You can contact me via
-[ResearchGate](https://www.researchgate.net/profile/Maxime-Benoit-Gagne). 
+[ResearchGate](https://www.researchgate.net/profile/Maxime-Benoit-Gagne).
+
+[![DOI](https://zenodo.org/badge/1146150721.svg)](https://doi.org/10.5281/zenodo.18494033)
